@@ -3,6 +3,7 @@ body {
 }
 h1 {
   border: 1px solid black;
+  font: 25px/25px Arial;
 }
 @include media("min", "xl") {
 }
