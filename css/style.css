@@ -58,4 +58,12 @@ textarea,
 select {
   font: inherit;
 }
+
+body {
+  background: #154256;
+}
+
+h1 {
+  border: 1px solid black;
+}
 /*# sourceMappingURL=style.css.map */
