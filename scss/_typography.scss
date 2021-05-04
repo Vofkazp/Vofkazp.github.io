@@ -1,0 +1,6 @@
+@each $font in $font_list {
+    @font-face {
+        font-family: $font;
+        src: url("#{$font_rout}#{$font}.woff2") format("woff2"), url("#{$font_rout}#{$font}.woff") format("woff");
+    }
+}
